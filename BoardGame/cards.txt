@@ -1,0 +1,168 @@
+You found a bike, use at any time to move 3 spaces ahead!
+1
+3
+You found a unicycle.  Use at any time to ride 2 spaces ahead.
+1
+2
+You found a lucky rabbits foot.  Use at any time to roll twice.
+2
+2
+You found a magic 5 leaf clover.  Use at any time to roll twice.
+2
+2
+You found a pogo stick.  Use at any time to move 4 spaces ahead.
+1
+4
+You found a book.  Throw it at any time to skip the next player.
+3
+1
+You found a hammer.  Throw it at any time to skip the next player.
+3
+1
+You found a lucky rabbits foot.  Use it to roll twice. 
+2
+2
+You found an unlucky rabbits foot.  Use it to skip the next player. 
+1
+1
+You found a scary mask.  Use it to make a player move back 2 spaces.
+4
+2
+You found a gun.  Throw it at a player to make them move back 3 spaces.
+4
+3
+You found an insult card.  Use it to make a player move back 1 space.
+4
+1
+You found an unlucky black cat.  Use it to make a player move back 2 spaces.
+4
+2
+You found a lucky horseshoe.  Use it to roll twice.
+2
+2
+You found a bike, use at any time to move 3 spaces ahead!
+1
+3
+You found a unicycle.  Use at any time to ride 2 spaces ahead.
+1
+2
+You found a lucky rabbits foot.  Use at any time to roll twice.
+2
+2
+You found a magic 5 leaf clover.  Use at any time to roll twice.
+2
+2
+You found a pogo stick.  Use at any time to move 4 spaces ahead.
+1
+4
+You found a book.  Throw it at any time to skip the next player.
+3
+1
+You found a hammer.  Throw it at any time to skip the next player.
+3
+1
+You found a lucky rabbits foot.  Use it to roll twice. 
+2
+2
+You found an unlucky rabbits foot.  Use it to skip the next player. 
+1
+1
+You found a scary mask.  Use it to make a player move back 2 spaces.
+4
+2
+You found a gun.  Throw it at a player to make them move back 3 spaces.
+4
+3
+You found an insult card.  Use it to make a player move back 1 space.
+4
+1
+You found an unlucky black cat.  Use it to make a player move back 2 spaces.
+4
+2
+You found a lucky horseshoe.  Use it to roll twice.
+2
+2
+You found a bike, use at any time to move 3 spaces ahead!
+1
+3
+You found a unicycle.  Use at any time to ride 2 spaces ahead.
+1
+2
+You found a lucky rabbits foot.  Use at any time to roll twice.
+2
+2
+You found a magic 5 leaf clover.  Use at any time to roll twice.
+2
+2
+You found a pogo stick.  Use at any time to move 4 spaces ahead.
+1
+4
+You found a book.  Throw it at any time to skip the next player.
+3
+1
+You found a hammer.  Throw it at any time to skip the next player.
+3
+1
+You found a lucky rabbits foot.  Use it to roll twice. 
+2
+2
+You found an unlucky rabbits foot.  Use it to skip the next player. 
+1
+1
+You found a scary mask.  Use it to make a player move back 2 spaces.
+4
+2
+You found a gun.  Throw it at a player to make them move back 3 spaces.
+4
+3
+You found an insult card.  Use it to make a player move back 1 space.
+4
+1
+You found an unlucky black cat.  Use it to make a player move back 2 spaces.
+4
+2
+You found a lucky horseshoe.  Use it to roll twice.
+2
+2
+You found a bike, use at any time to move 3 spaces ahead!
+1
+3
+You found a unicycle.  Use at any time to ride 2 spaces ahead.
+1
+2
+You found a lucky rabbits foot.  Use at any time to roll twice.
+2
+2
+You found a magic 5 leaf clover.  Use at any time to roll twice.
+2
+2
+You found a pogo stick.  Use at any time to move 4 spaces ahead.
+1
+4
+You found a book.  Throw it at any time to skip the next player.
+3
+1
+You found a hammer.  Throw it at any time to skip the next player.
+3
+1
+You found a lucky rabbits foot.  Use it to roll twice. 
+2
+2
+You found an unlucky rabbits foot.  Use it to skip the next player. 
+1
+1
+You found a scary mask.  Use it to make a player move back 2 spaces.
+4
+2
+You found a gun.  Throw it at a player to make them move back 3 spaces.
+4
+3
+You found an insult card.  Use it to make a player move back 1 space.
+4
+1
+You found an unlucky black cat.  Use it to make a player move back 2 spaces.
+4
+2
+You found a lucky horseshoe.  Use it to roll twice.
+2
+2

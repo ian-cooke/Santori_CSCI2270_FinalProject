@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1461741643 source:/home/user/Dropbox/Final Project/Santori_CSCI2270_FinalProject/BoardGame/src/board.cpp
+	"board.h"
+	<cstdlib>
+	"time.h"
+	<iostream>
+	<fstream>
+	<sstream>
+
+1461744781 /home/user/Dropbox/Final Project/Santori_CSCI2270_FinalProject/BoardGame/include/board.h
+	<iostream>
+
+1461744706 source:/home/user/Dropbox/Final Project/Santori_CSCI2270_FinalProject/BoardGame/main.cpp
+	<iostream>
+	"board.h"
+	<ctime>
+
