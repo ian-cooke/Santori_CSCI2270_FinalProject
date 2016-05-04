@@ -65,6 +65,20 @@ int main(){
             bg.addPlayer(name,totP,1);
         }
     }
+
+    // This is also part of my contribution
+    int dieSize = 0;
+    cout<<endl;
+    cout<<"What size die would you like to use?(4-20)"<<endl; // gets user input of die size
+    while (dieSize < 4 || dieSize > 20)
+    {
+        cin>>dieSize;
+        if (dieSize < 4 || dieSize > 20)
+        {
+            cout<<"Please enter either '6' or '12'"<<endl;
+        }
+    }
+
     int bSize = 0;
     cout<<endl;
     cout<<"How big do you want the game board to be?(20-70)"<<endl; // gets user inputted board length
@@ -77,6 +91,7 @@ int main(){
     bg.createBoard(bSize); // creates board
     bg.display(totP); // displays the board and player locations
     bg.loadDeck(); // loads cards from text file
+    bg.setDieSize(dieSize);
     int choice = -1;
     while(choice != 3){
         if(bg.curr->bot == 0){

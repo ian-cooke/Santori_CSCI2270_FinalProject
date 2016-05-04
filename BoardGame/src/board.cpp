@@ -49,7 +49,7 @@ void board::addPlayer(string name,int numP,int bot){ //adds a player into a play
 
 int board::roll(){ // returns a random number from 1 to 6 ass part of the roll
     srand(time(NULL));
-    int t = rand()%6+1;
+    int t = rand()%dieSize+1; //changed from 6 to dieSize
     std::cout<<curr->name<<" moved "<<t<<" spaces ahead"<<std::endl;
     return t;
 }
@@ -275,4 +275,10 @@ bool board::winCheck(){ // checks to see if a player has reached the end
     }else{
         return false;
     }
+}
+
+//  Here is my contribution. I simply added the functionality to double the size of the die if the player wants.
+void board::setDieSize(int dSize)
+{
+    dieSize = dSize;
 }

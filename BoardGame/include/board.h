@@ -36,6 +36,8 @@ class board
         bool winCheck();
         player * curr;
 
+        // part of contribution
+        void setDieSize(int dSize);
 
 
     protected:
@@ -44,6 +46,9 @@ class board
         card * deckS; // card at top of deck
         int cardRem; // num of cards in the deck
         player * first = NULL; // first player created
+
+        // Part of contribution
+        int dieSize;
 
 };
 
